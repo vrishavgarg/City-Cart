@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Food & Beverage",
+    "url": "/icons/Food&Beverage.png"
+  },
+  {
+    "name": "Hospitality",
+    "url": "/icons/Hospitality.png"
+  },
+  {
+    "name": "Retail",
+    "url": "/icons/Retail.png"
+  },
+  {
+    "name": "Health & Wellness",
+    "url": "/icons/Health&Wellness.png"
+  },
+  {
+    "name": "Entertainment",
+    "url": "/icons/Entertainment.png"
+  },
+  {
+    "name": "Education",
+    "url": "/icons/Education.png"
+  },
+  {
+    "name": "Technology",
+    "url": "/icons/Technology.png"
+  },
+  {
+    "name": "Transportation",
+    "url": "/icons/Transportation.png"
+  },
+  {
+    "name": "Home Services",
+    "url": "/icons/HomeServices.png"
+  },
+  {
+    "name": "Arts & Crafts",
+    "url": "/icons/Arts&Crafts.png"
+  },
+  {
+    "name": "Finance",
+    "url": "/icons/Finance.png"
+  },
+  {
+    "name": "Non-Profit/Community",
+    "url": "/icons/Non-ProfitCommunity.png"
+  }
+]
